@@ -19,7 +19,7 @@ jobs:
             fail-fast: false
             matrix:
                 include:
-                    - php-version: '7.3'
+                    - php-version: '7.2'
                       dependency-versions: 'lowest'
                       tools: 'composer:v2'
                       env:
