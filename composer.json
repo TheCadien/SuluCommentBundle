@@ -11,8 +11,7 @@
         "symfony/dependency-injection": "^5.4 || ^6.0 || ^7.0",
         "symfony/framework-bundle": "^5.4 || ^6.0 || ^7.0",
         "symfony/http-foundation": "^5.4 || ^6.0 || ^7.0",
-        "symfony/http-kernel": "^5.4 || ^6.0 || ^7.0",
-        "dantleech/phpcr-migrations-bundle": "^1.6"
+        "symfony/http-kernel": "^5.4 || ^6.0 || ^7.0"
     },
     "require-dev": {
         "doctrine/doctrine-bundle": "^1.10 || ^2.0",
